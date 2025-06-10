@@ -14,3 +14,11 @@ function squareRoot(num) {
 }
 
 console.log(squareRoot(9));
+
+
+
+function multiply(a, b) {
+  return a * b;
+}
+
+console.log(multiply(4, 5));
